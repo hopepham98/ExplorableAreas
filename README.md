@@ -9,7 +9,7 @@ The biggest challenge that i encounter with this application was how to continue
 ![ExplorableAreasIntro](https://user-images.githubusercontent.com/67672827/88250299-beeda100-cc6c-11ea-86c6-9dc736db31b7.png)
 
 
-## Example of Code:
+## Example of Location Code:
 
 ```markdown
        private void LocationMenu() 
