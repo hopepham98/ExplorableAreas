@@ -1,0 +1,13 @@
+C:\Users\Hope\Desktop\ITP Summer 2020\Projects\ExplorableAreas\bin\Debug\netcoreapp3.1\ExplorableAreas.exe
+C:\Users\Hope\Desktop\ITP Summer 2020\Projects\ExplorableAreas\bin\Debug\netcoreapp3.1\ExplorableAreas.deps.json
+C:\Users\Hope\Desktop\ITP Summer 2020\Projects\ExplorableAreas\bin\Debug\netcoreapp3.1\ExplorableAreas.runtimeconfig.json
+C:\Users\Hope\Desktop\ITP Summer 2020\Projects\ExplorableAreas\bin\Debug\netcoreapp3.1\ExplorableAreas.runtimeconfig.dev.json
+C:\Users\Hope\Desktop\ITP Summer 2020\Projects\ExplorableAreas\bin\Debug\netcoreapp3.1\ExplorableAreas.dll
+C:\Users\Hope\Desktop\ITP Summer 2020\Projects\ExplorableAreas\bin\Debug\netcoreapp3.1\ExplorableAreas.pdb
+C:\Users\Hope\Desktop\ITP Summer 2020\Projects\ExplorableAreas\obj\Debug\netcoreapp3.1\ExplorableAreas.csprojAssemblyReference.cache
+C:\Users\Hope\Desktop\ITP Summer 2020\Projects\ExplorableAreas\obj\Debug\netcoreapp3.1\ExplorableAreas.AssemblyInfoInputs.cache
+C:\Users\Hope\Desktop\ITP Summer 2020\Projects\ExplorableAreas\obj\Debug\netcoreapp3.1\ExplorableAreas.AssemblyInfo.cs
+C:\Users\Hope\Desktop\ITP Summer 2020\Projects\ExplorableAreas\obj\Debug\netcoreapp3.1\ExplorableAreas.csproj.CoreCompileInputs.cache
+C:\Users\Hope\Desktop\ITP Summer 2020\Projects\ExplorableAreas\obj\Debug\netcoreapp3.1\ExplorableAreas.dll
+C:\Users\Hope\Desktop\ITP Summer 2020\Projects\ExplorableAreas\obj\Debug\netcoreapp3.1\ExplorableAreas.pdb
+C:\Users\Hope\Desktop\ITP Summer 2020\Projects\ExplorableAreas\obj\Debug\netcoreapp3.1\ExplorableAreas.genruntimeconfig.cache
